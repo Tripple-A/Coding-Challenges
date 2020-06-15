@@ -13,14 +13,20 @@ const alphaNumeric = {
 
 const convert = str => {
     str = str.split('')
-    len = str.length
+    len = str.length-1
     ans = 0
     str.forEach((letter,i) => {
-      num = alphaNumeric[letter]*(10**(len-1-i))
+      num = alphaNumeric[letter]*(10**(len-i))
       ans+=num
     })
     console.log(typeof(ans))
     return ans
 }
-
-console.log(convert('12345'))
+//Solve using reduce method
+const convert2 = str => {
+  len = str.length-1
+  return str.split('').reduce((acc,curr,i) => 
+      acc+(alphaNumeric[curr]*(10**(len-i)))
+  ,0)
+}
+console.log(convert2('12345'))
