@@ -4,4 +4,4 @@ I store the solutions to all the coding challenges I solve here. It currently in
 2) [Shortest path to a target in a 2D matrix.](https://github.com/Tripple-A/Coding-Challenges/blob/master/shortest_path.rb)
 3) [Best time to buy and sell stock.](https://github.com/Tripple-A/Coding-Challenges/blob/master/best_time_to_buy_and_sell_stock.rb)
 4) [Contains duplicate.](https://github.com/Tripple-A/Coding-Challenges/blob/master/contains_duplicate.rb)
-5) [Contains duplicate.](https://github.com/Tripple-A/Coding-Challenges/blob/master/reverse_linked_list.rb)
+5) [Reverse Linked List.](https://github.com/Tripple-A/Coding-Challenges/blob/master/reverse_linked_list.rb)
