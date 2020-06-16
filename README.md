@@ -1,0 +1,3 @@
+# Coding-Challenges
+I store the solutions to all the coding challenges I solve here. It currently includes;
+1) Convert string to number manually
