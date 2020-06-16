@@ -6,3 +6,11 @@ def contains_duplicate(nums)
     end
     return false
 end
+
+def contains_duplicate(nums)
+    nums.sort!
+    for i in 0..nums.length-2
+       return true if nums[i] == nums[i+1]    
+    end
+    return false
+end
