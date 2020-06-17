@@ -14,3 +14,18 @@ def hasCycle(head,hash={})
     head = head.next
     hasCycle(head,hash)
 end
+#Using pointers
+def hasCycle(head)
+    slow = head
+    fast = head.next if head
+     while slow && fast
+         return true if slow == fast
+         slow = slow.next
+         if fast.next
+             fast = fast.next.next
+         else
+             fast = fast.next
+         end
+     end
+     false
+ end
