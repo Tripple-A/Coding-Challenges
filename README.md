@@ -6,3 +6,4 @@ I store the solutions to all the coding challenges I solve here. It currently in
 4) [Contains duplicate.](https://github.com/Tripple-A/Coding-Challenges/blob/master/contains_duplicate.rb)
 5) [Reverse Linked List.](https://github.com/Tripple-A/Coding-Challenges/blob/master/reverse_linked_list.rb)
 6) [Reverse Linked List.](https://github.com/Tripple-A/Coding-Challenges/blob/master/two_sum.rb)
+7) [Reverse Linked List.](https://github.com/Tripple-A/Coding-Challenges/blob/master/linked_list_cycle.rb)
