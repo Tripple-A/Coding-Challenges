@@ -5,3 +5,4 @@ I store the solutions to all the coding challenges I solve here. It currently in
 3) [Best time to buy and sell stock.](https://github.com/Tripple-A/Coding-Challenges/blob/master/best_time_to_buy_and_sell_stock.rb)
 4) [Contains duplicate.](https://github.com/Tripple-A/Coding-Challenges/blob/master/contains_duplicate.rb)
 5) [Reverse Linked List.](https://github.com/Tripple-A/Coding-Challenges/blob/master/reverse_linked_list.rb)
+6) [Reverse Linked List.](https://github.com/Tripple-A/Coding-Challenges/blob/master/two_sum.rb)
