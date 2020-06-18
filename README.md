@@ -7,3 +7,4 @@ I store the solutions to some of the coding challenges I solve here. It currentl
 5) [Reverse Linked List.](https://github.com/Tripple-A/Coding-Challenges/blob/master/reverse_linked_list.rb)
 6) [Two Sum.](https://github.com/Tripple-A/Coding-Challenges/blob/master/two_sum.rb)
 7) [Linked List Cycle.](https://github.com/Tripple-A/Coding-Challenges/blob/master/linked_list_cycle.rb)
+8) [Merge two sorted lists.](https://github.com/Tripple-A/Coding-Challenges/blob/master/merge_two_sorted_lists.rb)
