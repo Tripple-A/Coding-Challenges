@@ -9,3 +9,4 @@ I store the solutions to some of the coding challenges I solve here. It currentl
 7) [Linked List Cycle.](https://github.com/Tripple-A/Coding-Challenges/blob/master/linked_list_cycle.rb)
 8) [Merge two sorted lists.](https://github.com/Tripple-A/Coding-Challenges/blob/master/merge_two_sorted_lists.rb)
 9) [Sum two numbers without +/-.](https://github.com/Tripple-A/Coding-Challenges/blob/master/sum_two_numbers.rb)
+10) [Longest Subsequence.](https://github.com/Tripple-A/Coding-Challenges/blob/master/longest_subsequence.rb)
