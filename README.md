@@ -13,3 +13,4 @@ I store the solutions to some of the coding challenges I solve here. It currentl
 11) [Advanced Quicksort.](https://github.com/Tripple-A/Coding-Challenges/blob/master/advancedSort.js)
 12) [Spiral Order.](https://github.com/Tripple-A/Coding-Challenges/blob/master/spiral_order.rb)
 13) [Jump Game 2.](https://github.com/Tripple-A/Coding-Challenges/blob/master/jump_game2.rb)
+14) [Valid Parenthesis.](https://github.com/Tripple-A/Coding-Challenges/blob/master/valid_parenthesis.rb)
